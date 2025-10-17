@@ -1,4 +1,4 @@
-<h1 align="center"> KNN — Student Pass/Fail Prediction </h1>
+<h1 align="center"> KNN — Student Pass/Failed Prediction </h1>
 
 <p align="center">
   <img src="images/Students_PassFailed_logo.png" alt="KNN Project Logo">
